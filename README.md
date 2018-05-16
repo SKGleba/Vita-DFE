@@ -1,6 +1,6 @@
 # Vita-DFE
 DFE - Debug Features Enabler ( or Dex/Devkit Features Extender if you have a dex/tool unit ) for Playstation Vita, Playstation Vita TV and Playstation TV.
-Current state: Alpha, no ETA.
+- Current state: Alpha, no ETA.
 # Basic Usage:
 - Enable/Disable debug features
    Installs/Uninstalls a ITU lv3 Project Deepload, which adds following patches:
