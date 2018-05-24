@@ -3,11 +3,11 @@ DFE - Debug Features Enabler ( or Dex/Devkit Features Extender if you have a dex
 - Current state: Open Beta, no ETA.
 # Basic Usage:
 - Enable/Disable debug features
- - Installs/Uninstalls a ITU lv3 Project Deepload
+   - Installs/Uninstalls a ITU lv3 Project Deepload
 - Install/Uninstall MultiHen Framework
- - Installs/Uninstalls MultiHen framework along with bighooker and vshpatcher.
+   - Installs/Uninstalls MultiHen framework along with bighooker and vshpatcher.
 - Current Status
- - Displays some info about system status (gathered by this app).
+   - Displays some info about system status (gathered by this app).
 - Exit
 # Features:
 - Only ITU lv3 Project DeepLoad:
