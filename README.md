@@ -34,5 +34,9 @@ DFE - Debug Features Enabler ( or Dex/Devkit Features Extender if you have a dex
 - Enso logo has been replaced by PS logo
 - Install MultiHen framework AFTER enabling debug features, if you forget to do so - hold TRIANGLE at boot and then enable debug features.
 - The Enable/Disable debug features option flashes Project Deepload into MBR, remember that every flash brings risk of a PERMAMENT, UNRECOVERABLE BRICK, so I recommend doing it on a clean os (freshly after boot and without bigger plugins).
+Hold L on boot to boot with plugins disabled, if you dont you may brick
+- boot_config.txt now loads from ur0:tai/boot_config.txt, if you load from ux0: you will have to switch to using ur0:
+- boot_config.txt is also replaced, you can find your old config at ur0:mhen/origbcfg
+you can manually add your plugins back to the new boot_config.txt
 # CREDITS
 Big thanks to Samilop Iter, Castelo, Princess-Of-Sleeping, Yifan Lu, Team Molecule, and all alpha testers.
